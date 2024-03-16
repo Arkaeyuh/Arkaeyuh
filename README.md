@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">CS Student @ TAMU</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [alexgreeneswe.com](alexgreeneswe.com)
 
